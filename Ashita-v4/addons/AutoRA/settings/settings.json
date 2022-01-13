@@ -1,0 +1,23 @@
+{
+    "COR": {
+        "Ammo": "Corsair Bullet",
+        "AmmoBag": "Cor. Bull. Pouch",
+        "Delay": "1.2",
+        "HaltOnTp": false,
+        "WeaponSkill": "Slug Shot"
+    },
+    "RNG": {
+        "Ammo": "Stone Arrow",
+        "AmmoBag": "Stone Quiver",
+        "Delay": 1.5,
+        "HaltOnTp": false,
+        "WeaponSkill": ""
+    },
+    "THF": {
+        "Ammo": "Bronze Bolt",
+        "AmmoBag": "B. Bolt Quiver",
+        "Delay": 1.3,
+        "HaltOnTp": false,
+        "WeaponSkill": ""
+    }
+}
